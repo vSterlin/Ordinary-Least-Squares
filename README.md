@@ -1,2 +1,2 @@
-# Ordinary-Least-Squares
+# Ordinary Least Squares
 ## Simple Linear Regression Algorithm
